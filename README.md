@@ -1,5 +1,5 @@
 # Block 13
-## _Play Dice Against The Chain_
+_Play Dice Against The Chain_
 
 This repository contains a Python-based dice game designed with simplicity and extensibility in mind. The game simulates rolling dice and determines the outcome based on the rolls. Currently, the project is focused on the core game mechanics, with plans to integrate a blockchain-based betting system using Ethereum smart contracts in the future.
 
