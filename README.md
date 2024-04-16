@@ -26,4 +26,4 @@ This repository contains a Vyper-based dice game designed with simplicity and ex
 
 3. Run the game
    ```bash
-   python main.py
+   ##
